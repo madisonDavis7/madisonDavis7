@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi There 💖
 
-<!--
-**madisonDavis7/madisonDavis7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Madison Davis**, a designer and developer based in Montana. 
 
-Here are some ideas to get you started:
+I focus on frontend work and UI/UX design. I love making this pretty and functional. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I fell in love with cs earlier on, discovered what web design was, and decided I wanted to combine my creativity with my passion for coding and pursue frontend opportunities. 
+
+I've only worked in tech... it's what I love. 
+
+Tech Stack *(so far)*: 
+  React
+  Typescript
+  Javascript
+  Python
+  HTML/CSS
+  Flutter
+  Figma 
+
+Most of what I've learned has come from youtube videos, messing around with code, and creating mock designs of existing websites. 
+
+
+**My Trivia:**
+ - I love running
+ - I read too often
+ - Cats are superior in my mind
+
+**Interests**
+ - Anime/Manga
+ - Pinterest for pretty much anything
+ - Designing
+
