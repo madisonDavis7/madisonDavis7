@@ -1,4 +1,4 @@
-## Hi There 💖
+## Hi There 👾
 
 I'm **Madison Davis**, a designer and developer based in Montana. 
 
@@ -24,6 +24,7 @@ Most of what I've learned has come from youtube videos, messing around with code
  - I love running
  - I read too often
  - Cats are superior in my mind
+ - Slight obsession with Halloween
 
 **Interests**
  - Anime/Manga
