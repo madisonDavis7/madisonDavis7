@@ -9,13 +9,13 @@ I fell in love with cs earlier on, discovered what web design was, and decided I
 I've only worked in tech... it's what I love. 
 
 Tech Stack *(so far)*: 
-  React
-  Typescript
-  Javascript
-  Python
-  HTML/CSS
-  Flutter
-  Figma 
+  | React
+  | Typescript
+  | Javascript
+  | Python
+  | HTML/CSS
+  | Flutter
+  | Figma 
 
 Most of what I've learned has come from youtube videos, messing around with code, and creating mock designs of existing websites. 
 
