@@ -31,3 +31,5 @@ Most of what I've learned has come from youtube videos, messing around with code
  - Pinterest for pretty much anything
  - Designing
 
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madisonDavis7&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
